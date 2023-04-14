@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ar=ox .
+chmod -R ar=orx .
